@@ -1,2 +1,8 @@
 # Violence-Detection
-Real Time Violence Detection in Video 
+Real Time Violence Detection in Video.
+
+Updated version tf 2.3.0
+
+## Reference (based on):
+
+1. Real Time Violence Detection in Video : https://github.com/mamonraab/Real-Time-Violence-Detection-in-Video-
