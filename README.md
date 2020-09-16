@@ -5,6 +5,7 @@ Updated version tf 2.3.0
 
 TO DO:
 1. web-version is broken.
+2. Clean code
 
 ## Reference (based on):
 
