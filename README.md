@@ -3,10 +3,16 @@ Real Time Violence Detection in Video.
 
 Updated version tf 2.3.0
 
-TO DO:
+### DONE:
+1. ipynb version works
+
+### TO DO:
 1. web-version is broken.
 2. Clean code
 3. Grammar and proper naming. 
+
+### Questions:
+1. Which datasets were used to train model to get weights.
 
 The source code associated with the paper [Robust Real-Time Violence Detection in Video Using CNN And LSTM](https://ieeexplore.ieee.org/document/8852616)
 
