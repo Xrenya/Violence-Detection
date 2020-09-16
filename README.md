@@ -3,13 +3,12 @@ Real Time Violence Detection in Video.
 
 Updated version tf 2.3.0
 
-### DONE:
-1. ipynb version works
-
 ### TO DO:
-1. web-version is broken.
-2. Clean code
-3. Grammar and proper naming. 
+- [X] ipynb version works for videos
+- [X] ipynb version works for webcamera
+- [ ] web-version is broken.
+- [ ] Clean code
+- [ ] Grammar and proper naming. 
 
 ### Questions:
 1. Which datasets were used to train model to get weights.
