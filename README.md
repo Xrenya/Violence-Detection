@@ -4,10 +4,10 @@ Real Time Violence Detection in Video.
 Updated version tf 2.3.0
 
 ### TO DO:
-- [X] ipynb version works for videos
-- [X] ipynb version works for webcamera
+- [X] ipynb version works for videos.
+- [X] ipynb version works for a web camera.
 - [ ] web-version is broken.
-- [ ] Clean code
+- [ ] Clean code.
 - [ ] Grammar and proper naming. 
 
 ### Questions:
