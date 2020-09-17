@@ -1,5 +1,5 @@
 # Violence-Detection
-Real Time Violence Detection in Video.
+(Almost) Real Time Violence Detection in Video.
 
 Updated version tf 2.3.0
 
