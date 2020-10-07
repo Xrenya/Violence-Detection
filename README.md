@@ -1,7 +1,7 @@
 # Violence-Detection
 (Almost) Real Time Violence Detection in Video.
 
-Updated version (https://img.shields.io/badge/tf-2.3.0-success)
+Updated version [tf](https://img.shields.io/badge/tf-2.3.0-success)
 
 ### TO DO:
 - [X] ipynb version works for videos.
